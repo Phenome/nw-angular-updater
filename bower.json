@@ -1,11 +1,11 @@
 {
   "name": "nw-angular-updater",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "authors": [
     "Henrique Pinheiro <github@gampoc.com>"
   ],
   "description": "Node Webkit AngularJS Updater Service",
-  "main": "index.js",
+  "main": "nw-angular-updater.js",
   "moduleType": [
     "node"
   ],
