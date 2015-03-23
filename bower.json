@@ -1,0 +1,27 @@
+{
+  "name": "nw-angular-updater",
+  "version": "0.1.0",
+  "authors": [
+    "Henrique Pinheiro <github@gampoc.com>"
+  ],
+  "description": "Node Webkit AngularJS Updater Service",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "node-webkit",
+    "node",
+    "webkit",
+    "nwjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
