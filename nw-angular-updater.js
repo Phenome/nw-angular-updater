@@ -179,6 +179,6 @@
 
   })();
 
-  angular.module('nwUpdater').provider('nwUpdate', UpdateServiceProvider);
+  angular.module('nwUpdater', []).provider('nwUpdate', UpdateServiceProvider);
 
 }).call(this);
