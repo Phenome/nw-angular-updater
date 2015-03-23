@@ -85,5 +85,5 @@ class UpdateServiceProvider
     new UpdateService q, http, {@infoUrl,@downloadUrl,@filename,@currentVersion}, @auto
   ]
 
-angular.module 'nwUpdater'
+angular.module 'nwUpdater', []
 .provider 'nwUpdate', UpdateServiceProvider
